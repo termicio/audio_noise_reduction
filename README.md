@@ -1,6 +1,5 @@
 # Audio Noise Reduction
 
-## Short Description
 
 This project provides a simple audio noise reduction tool aimed at removing background noise from recorded audio using short-time spectral processing. It is suitable for preprocessing audio for speech recognition, podcasts, and other applications where cleaner sound is desired.
 
